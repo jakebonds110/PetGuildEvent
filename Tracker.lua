@@ -78,7 +78,7 @@ task.spawn(function()
 
     -- 4. DROP THE PETS IMMEDIATELY! 
     pcall(function()
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/jakebonds110/RainbowCarpetAuto/refs/heads/main/AutoDropPet.lua", true))()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/jakebonds110/PetGuildEvent/refs/heads/main/AutoDropPet.lua", true))()
     end)
     
     task.wait(3)
