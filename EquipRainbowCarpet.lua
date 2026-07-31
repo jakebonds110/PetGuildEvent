@@ -65,4 +65,4 @@ else
     -- warn("[-] Timing out: Carpet never loaded into inventory. Check item name.")
 end
 
-task.wait(1.5)
+task.wait(0.5)
